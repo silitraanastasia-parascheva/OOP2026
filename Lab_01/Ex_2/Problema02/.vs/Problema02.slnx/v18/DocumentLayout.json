@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OOP\\OOP2026\\Lab_01\\Ex_2\\Problema02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A17A3F5-3DAB-46C9-ADEF-AC20D66D5439}|Problema02\\Problema02.vcxproj|C:\\Users\\Admin\\OOP\\OOP2026\\Lab_01\\Ex_2\\Problema02\\Problema02\\Problema02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A17A3F5-3DAB-46C9-ADEF-AC20D66D5439}|Problema02\\Problema02.vcxproj|solutionrelative:Problema02\\Problema02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problema02.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\OOP\\OOP2026\\Lab_01\\Ex_2\\Problema02\\Problema02\\Problema02.cpp",
+              "RelativeDocumentMoniker": "Problema02\\Problema02.cpp",
+              "ToolTip": "C:\\Users\\Admin\\OOP\\OOP2026\\Lab_01\\Ex_2\\Problema02\\Problema02\\Problema02.cpp",
+              "RelativeToolTip": "Problema02\\Problema02.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T13:49:23.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
