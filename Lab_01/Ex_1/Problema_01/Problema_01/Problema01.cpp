@@ -1,3 +1,6 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+
 int transformare(char s[]) {
     int i = 0;
     int numar = 0;

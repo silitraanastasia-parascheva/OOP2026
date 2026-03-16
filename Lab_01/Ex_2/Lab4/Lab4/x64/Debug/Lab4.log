@@ -1,0 +1,9 @@
+﻿  Lab4.cpp
+  Sort.cpp
+C:\Users\Admin\OOP\OOP2026\Lab_01\Ex_2\Lab4\Lab4\Sort.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\OOP\OOP2026\Lab_01\Ex_2\Lab4\Lab4\Sort.cpp(43,18): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\OOP\OOP2026\Lab_01\Ex_2\Lab4\Lab4\Sort.cpp(55,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\OOP\OOP2026\Lab_01\Ex_2\Lab4\Lab4\Sort.cpp(75,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\OOP\OOP2026\Lab_01\Ex_2\Lab4\Lab4\Sort.cpp(94,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Lab4.vcxproj -> C:\Users\Admin\OOP\OOP2026\Lab_01\Ex_2\Lab4\x64\Debug\Lab4.exe
